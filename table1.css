@@ -1,0 +1,69 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+table{
+    margin: 0px auto;
+    width: 100%;
+}
+
+caption{
+    margin-bottom: 20px;
+    color: white;
+    background-color: dodgerblue;
+    padding: 5px 20px;
+    width: 100%;
+}
+
+.tcontainer{
+   width: 80%;
+   margin: auto;
+}
+
+table, td, th{
+    border-bottom: 1px solid dodgerblue;
+    border-collapse: collapse;
+    text-align: center;
+    max-width: 100%;
+    padding: 10px 20px;
+    margin: 10px;
+}
+
+th{
+    background-color: dodgerblue;
+    padding: 20px;
+}
+.spangreen{
+    background-color: green;
+    color: white;
+    text-align: right;
+    padding: 0px 3px;
+    border-radius: 5px;
+}
+
+.spanred{
+    background-color: red;
+    color: white;
+    text-align: right;
+    padding: 0px 3px;
+    border-radius: 5px;
+}
+.green{
+    color: white;
+    background-color: green;
+    border-radius: 3px;
+    padding: 2px 5px;
+}
+.orange{
+    color: white;
+    background-color: orange;
+    border-radius: 3px;
+    padding: 2px 5px;
+}
+.red{
+    color: white;
+    background-color: red;
+    border-radius: 3px;
+    padding: 2px 5px;
+}
